@@ -1,4 +1,4 @@
-while sleep 30
+while sleep 10
 do
     randomNum=$(( ( RANDOM % 11 )  + 1 ))
 
